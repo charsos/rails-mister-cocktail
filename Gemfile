@@ -65,3 +65,4 @@ gem 'simple_form'
 # parsing ingredients
 gem 'json'
 # gem 'open-uri'
+gem 'dotenv-rails', groups: [:development, :test]
