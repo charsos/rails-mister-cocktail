@@ -66,3 +66,5 @@ gem 'simple_form'
 gem 'json'
 # gem 'open-uri'
 gem 'dotenv-rails', groups: [:development, :test]
+gem 'cloudinary', '~> 1.9.1'
+gem 'carrierwave', '~> 1.2'
